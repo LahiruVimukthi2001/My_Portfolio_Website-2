@@ -1,0 +1,29 @@
+My Personal Portfolio
+
+### sidebar
+
+alt = Richard hanrick
+Richard hanrick
+Web developer
+
+Show Contacts
+
+Email
+lahiruvimukthi82@gmail.com
+
+Phone
+076 3688784
+
+Birthday
+Auguest 27, 2001
+
+Location
+Mawathgama, Homagama
+
+### navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
