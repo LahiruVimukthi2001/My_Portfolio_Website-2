@@ -1138,3 +1138,19 @@ textarea.form-input::-webkit-resizer { display: none; }
 .form-btn:disabled:hover { background: var(--border-gradient-onyx); }
 
 .form-btn:disabled:hover::before { background: var(--bg-gradient-jet); }
+
+
+
+/*-----------------------------------*\
+  #RESPONSIVE
+\*-----------------------------------*/
+
+/*** responsive larger than 450px screen */
+
+@media (min-width: 450px) {
+  /*** client */
+  .clients-item { min-width: calc(33.33% - 10px); }
+  /*** #PORTFOLIO, BLOG */
+  .project-img,
+  .blog-banner-box { height: auto; }
+}
