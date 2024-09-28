@@ -1154,3 +1154,21 @@ textarea.form-input::-webkit-resizer { display: none; }
   .project-img,
   .blog-banner-box { height: auto; }
 }
+
+/*** responsive larger than 580px screen */
+
+@media (min-width: 580px) {
+  /*** CUSTOM PROPERTY  */
+  :root {
+    /*** typography    */
+    --fs-1: 32px;
+    --fs-2: 24px;
+    --fs-3: 26px;
+    --fs-4: 18px;
+    --fs-6: 15px;
+    --fs-7: 15px;
+    --fs-8: 12px;
+  }
+
+  
+}
