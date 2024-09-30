@@ -1176,6 +1176,14 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin-inline: auto;
     padding: 30px;
   }
+  .article-title {
+    font-weight: var(--fw-600);
+    padding-bottom: 15px;
+  }
+  .article-title::after {
+    width: 40px;
+    height: 5px;
+  }
 
 
   
