@@ -1228,6 +1228,9 @@ textarea.form-input::-webkit-resizer { display: none; }
   .navbar-list { gap: 20px; }
   .navbar-link { --fs-8: 14px; }
 
+  /*** #ABOUT   */
+  .about .article-title { margin-bottom: 20px; }
+  .about-text { margin-bottom: 40px; }
 
 
 }
