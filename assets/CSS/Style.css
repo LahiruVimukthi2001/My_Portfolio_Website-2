@@ -1232,5 +1232,15 @@ textarea.form-input::-webkit-resizer { display: none; }
   .about .article-title { margin-bottom: 20px; }
   .about-text { margin-bottom: 40px; }
 
+  /* service */
+  .service-item {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 18px;
+    padding: 30px;
+  }
+
+
 
 }
