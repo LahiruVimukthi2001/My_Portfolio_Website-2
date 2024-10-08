@@ -1246,7 +1246,6 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin-top: 5px;
   }
 
-
-
+  .service-content-box { text-align: left; }
 
 }
