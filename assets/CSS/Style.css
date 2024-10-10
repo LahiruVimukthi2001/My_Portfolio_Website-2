@@ -1254,6 +1254,15 @@ textarea.form-input::-webkit-resizer { display: none; }
     padding: 30px;
     padding-bottom: 35px;
   }
+  .content-card {
+    padding: 30px;
+    padding-top: 25px;
+  }
+  .testimonials-avatar-box {
+    transform: translate(30px, -30px);
+    border-radius: 20px;
+  }
+
 
 
 }
