@@ -1290,6 +1290,12 @@ textarea.form-input::-webkit-resizer { display: none; }
     border-radius: 18px;
     margin-bottom: 0;
   }
+  .modal-avatar-box img { width: 65px; }
+  .modal-img-wrapper > img {
+    display: block;
+    flex-grow: 1;
+    width: 35px;
+  }
 
 
 
