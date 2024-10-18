@@ -1306,6 +1306,17 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
   .clients-item { min-width: calc(33.33% - 35px); }
 
+  /*** #RESUME   */
+  .timeline-list { margin-left: 65px; }
+  .timeline-item:not(:last-child)::before { left: -40px; }
+  .timeline-item::after {
+    height: 8px;
+    width: 8px;
+    left: -43px;
+  }
+  .skills-item:not(:last-child) { margin-bottom: 25px; }
+
+
 
 
 
