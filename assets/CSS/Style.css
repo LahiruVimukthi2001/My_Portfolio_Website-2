@@ -1316,6 +1316,12 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
   .skills-item:not(:last-child) { margin-bottom: 25px; }
 
+   /*** #PORTFOLIO, BLOG   */
+   .project-img, .blog-banner-box { border-radius: 16px; }
+   .blog-posts-list { gap: 30px; }
+   .blog-content { padding: 25px; }
+ 
+
 
 
 
