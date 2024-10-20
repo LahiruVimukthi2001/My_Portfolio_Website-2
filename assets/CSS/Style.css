@@ -1320,6 +1320,13 @@ textarea.form-input::-webkit-resizer { display: none; }
    .project-img, .blog-banner-box { border-radius: 16px; }
    .blog-posts-list { gap: 30px; }
    .blog-content { padding: 25px; }
+
+   /*** #CONTACT   */
+  .mapbox {
+    height: 380px;
+    border-radius: 18px;
+  }
+
  
 
 
