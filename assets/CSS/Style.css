@@ -1326,6 +1326,12 @@ textarea.form-input::-webkit-resizer { display: none; }
     height: 380px;
     border-radius: 18px;
   }
+  .input-wrapper {
+    gap: 30px;
+    margin-bottom: 30px;
+  }
+  .form-input { padding: 15px 20px; }
+
 
  
 
