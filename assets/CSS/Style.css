@@ -1331,6 +1331,15 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin-bottom: 30px;
   }
   .form-input { padding: 15px 20px; }
+  textarea.form-input { margin-bottom: 30px; }
+  .form-btn {
+    --fs-6: 16px;
+    padding: 16px 20px;
+  }
+  .form-btn ion-icon { font-size: 18px; }
+}
+
+
 
 
  
