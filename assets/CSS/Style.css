@@ -1340,6 +1340,20 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 
+/*** responsive larger than 768px screen */
+
+@media (min-width: 768px) 
+{
+  /*** REUSED STYLE  */
+  .sidebar, article { width: 700px; }
+  .has-scrollbar::-webkit-scrollbar-button { width: 100px; }
+   /*** SIDEBAR  */
+   .contacts-list {
+    grid-template-columns: 1fr 1fr;
+    gap: 30px 15px;
+  }
+  
+}
 
 
  
