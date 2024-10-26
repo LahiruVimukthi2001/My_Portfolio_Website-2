@@ -1354,6 +1354,13 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
   /*** NAVBAR  */
   .navbar-link { --fs-8: 15px; }
+  /*** ABOUT   */
+  /* testimonials modal */
+  .testimonials-modal {
+    gap: 35px;
+    max-width: 680px;
+  }
+
 
   
 }
