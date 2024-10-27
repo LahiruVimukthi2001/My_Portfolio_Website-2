@@ -1354,6 +1354,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
   /*** NAVBAR  */
   .navbar-link { --fs-8: 15px; }
+  
   /*** ABOUT   */
   /* testimonials modal */
   .testimonials-modal {
@@ -1361,6 +1362,11 @@ textarea.form-input::-webkit-resizer { display: none; }
     max-width: 680px;
   }
   .modal-avatar-box img { width: 80px; }
+
+  /*** PORTFOLIO   */
+  .article-title { padding-bottom: 20px; }
+  .filter-select-box { display: none; }
+
 
 
 
