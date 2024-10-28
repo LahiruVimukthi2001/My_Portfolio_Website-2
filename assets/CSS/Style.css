@@ -1366,6 +1366,15 @@ textarea.form-input::-webkit-resizer { display: none; }
   /*** PORTFOLIO   */
   .article-title { padding-bottom: 20px; }
   .filter-select-box { display: none; }
+  .filter-list {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 25px;
+    padding-left: 5px;
+    margin-bottom: 30px;
+  }
+
 
 
 
