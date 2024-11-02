@@ -1406,6 +1406,21 @@ textarea.form-input::-webkit-resizer { display: none; }
     --shadow-3: 0 16px 40px hsla(0, 0%, 0%, 0.125);
   }
 
+  /*** REUSED STYLE   */
+  .sidebar, article {
+    width: 950px;
+    box-shadow: var(--shadow-5);
+  }
+
+  /*** MAIN  */
+  main { margin-bottom: 60px; }
+  .main-content {
+    position: relative;
+    width: max-content;
+    margin: auto;
+  }
+
+
 
  
 
