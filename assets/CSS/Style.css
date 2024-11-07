@@ -1446,18 +1446,8 @@ textarea.form-input::-webkit-resizer { display: none; }
     gap: 20px 25px;
   }
 
-
-
-
-
-
- 
-
-
-
-
-
-
+  /* testimonials */
+  .testimonials-item { min-width: calc(50% - 15px); }
 
 
 
