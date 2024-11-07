@@ -1449,6 +1449,10 @@ textarea.form-input::-webkit-resizer { display: none; }
   /* testimonials */
   .testimonials-item { min-width: calc(50% - 15px); }
 
+  /* clients */
+  .clients-item { min-width: calc(25% - 38px); }
+
+
 
 
 }
