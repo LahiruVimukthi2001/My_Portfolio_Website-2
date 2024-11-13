@@ -1494,5 +1494,22 @@ textarea.form-input::-webkit-resizer { display: none; }
     width: 75%;
     margin: 0;
   }
+  /** SIDEBAR  **/
+  .sidebar {
+    position: sticky;
+    top: 60px;
+    max-height: max-content;
+    height: 100%;
+    margin-bottom: 0;
+    padding-top: 60px;
+    z-index: 1;
+  }
+  .sidebar-info { flex-direction: column; }
+  .avatar-box img { width: 150px; }
+  .info-content .name {
+    white-space: nowrap;
+    text-align: center;
+  }
+
 
 }
