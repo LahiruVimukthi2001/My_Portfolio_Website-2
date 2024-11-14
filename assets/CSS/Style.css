@@ -1510,6 +1510,19 @@ textarea.form-input::-webkit-resizer { display: none; }
     white-space: nowrap;
     text-align: center;
   }
+  .info-content .title { margin: auto; }
+  .info_more-btn { display: none; }
+  .sidebar-info_more {
+    opacity: 1;
+    visibility: visible;
+  }
+  .contacts-list { grid-template-columns: 1fr; }
+  .contact-info :is(.contact-link) {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
 
 
 }
