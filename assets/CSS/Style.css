@@ -1522,6 +1522,16 @@ textarea.form-input::-webkit-resizer { display: none; }
     overflow: hidden;
     text-overflow: ellipsis;
   }
+  .contact-info :is(.contact-link, time, address) {
+    --fs-7: 14px;
+    font-weight: var(--fw-300);
+  }
+  .separator:last-of-type {
+    margin: 15px 0;
+    opacity: 0;
+  }
+  .social-list { justify-content: center; }
+
 
 
 
