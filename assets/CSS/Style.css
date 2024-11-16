@@ -1535,3 +1535,14 @@ textarea.form-input::-webkit-resizer { display: none; }
   /*** RESUME	 */
   .timeline-text { max-width: 700px; }
 }
+
+/* Footer */
+
+ .footer{
+  padding: 22px 16%;
+  background: var(--second-bg-color);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem
+}
